@@ -1,0 +1,261 @@
+02-05-2021 08:48:32.714 [Gauge] [INFO] Watching directory: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs
+02-05-2021 08:48:32.718 [Gauge] [DEBUG] Found 1 files
+02-05-2021 08:48:32.723 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-05-2021 08:48:32.735 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 08:53:38.647 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-05-2021 08:53:38.651 [Gauge] [INFO] Watching directory: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs
+02-05-2021 08:53:38.651 [Gauge] [DEBUG] Found 1 files
+02-05-2021 08:53:38.659 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-05-2021 08:53:38.659 [Gauge] [DEBUG] Adding specs from C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 08:53:38.660 [Gauge] [INFO] Initializing steps cache with 1 steps
+02-05-2021 08:53:38.660 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58035
+02-05-2021 11:42:49.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Add To MerchanList"}
+02-05-2021 11:42:49.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Add To MerchanList"  parameterizedStepValue:"Click Add To MerchanList"}}
+02-05-2021 11:42:49.675 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter Hepsiburada Home Page;"}
+02-05-2021 11:42:49.675 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter Hepsiburada Home Page;"  parameterizedStepValue:"Enter Hepsiburada Home Page;"}}
+02-05-2021 11:42:49.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To My Account"}
+02-05-2021 11:42:49.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To My Account"  parameterizedStepValue:"Move To My Account"}}
+02-05-2021 11:42:49.835 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To My Account"}
+02-05-2021 11:42:49.835 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To My Account"  parameterizedStepValue:"Move To My Account"}}
+02-05-2021 11:42:49.836 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Login"}
+02-05-2021 11:42:49.836 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Login"  parameterizedStepValue:"Click Login"}}
+02-05-2021 11:42:49.842 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set User Name <key>"}
+02-05-2021 11:42:49.842 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set User Name {}"  parameterizedStepValue:"Set User Name <key>"  parameters:"key"}}
+02-05-2021 11:42:49.842 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set User Name \"m.akif.kus95@gmail.com\""}
+02-05-2021 11:42:49.844 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set User Name {}"  parameterizedStepValue:"Set User Name <m.akif.kus95@gmail.com>"  parameters:"m.akif.kus95@gmail.com"}}
+02-05-2021 11:42:49.858 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password <key>"}
+02-05-2021 11:42:49.859 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <key>"  parameters:"key"}}
+02-05-2021 11:42:49.907 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"Makifkus95\""}
+02-05-2021 11:42:49.907 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <Makifkus95>"  parameters:"Makifkus95"}}
+02-05-2021 11:42:49.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click btnLogin"}
+02-05-2021 11:42:49.909 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click btnLogin"  parameterizedStepValue:"Click btnLogin"}}
+02-05-2021 11:42:49.910 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click btnLogin"}
+02-05-2021 11:42:49.910 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click btnLogin"  parameterizedStepValue:"Click btnLogin"}}
+02-05-2021 11:42:49.912 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Search Product <key>"}
+02-05-2021 11:42:49.913 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Search Product {}"  parameterizedStepValue:"Set Search Product <key>"  parameters:"key"}}
+02-05-2021 11:42:49.913 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Search Product \"Bilgisayar\""}
+02-05-2021 11:42:49.913 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Search Product {}"  parameterizedStepValue:"Set Search Product <Bilgisayar>"  parameters:"Bilgisayar"}}
+02-05-2021 11:42:49.921 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Product"}
+02-05-2021 11:42:49.921 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Product"  parameterizedStepValue:"Click Product"}}
+02-05-2021 11:42:49.922 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Product"}
+02-05-2021 11:42:49.922 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Product"  parameterizedStepValue:"Click Product"}}
+02-05-2021 11:42:49.924 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Add To Chart"}
+02-05-2021 11:42:49.924 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Add To Chart"  parameterizedStepValue:"Click Add To Chart"}}
+02-05-2021 11:42:49.926 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Add To Chart"}
+02-05-2021 11:42:49.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Add To Chart"  parameterizedStepValue:"Click Add To Chart"}}
+02-05-2021 11:42:55.790 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:42:55.886 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:42:55.970 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:42:55.990 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:42:55.990 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:43:05.011 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:43:05.023 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:49:06.948 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Boo"}
+02-05-2021 11:49:06.948 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Boo"  parameterizedStepValue:"Move To Boo"}}
+02-05-2021 11:49:07.631 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Bool"}
+02-05-2021 11:49:07.631 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Bool"  parameterizedStepValue:"Move To Bool"}}
+02-05-2021 11:49:09.559 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, "}
+02-05-2021 11:49:09.559 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book,"  parameterizedStepValue:"Move To Book,"}}
+02-05-2021 11:49:11.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, Mu"}
+02-05-2021 11:49:11.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book, Mu"  parameterizedStepValue:"Move To Book, Mu"}}
+02-05-2021 11:49:12.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, Music"}
+02-05-2021 11:49:12.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book, Music"  parameterizedStepValue:"Move To Book, Music"}}
+02-05-2021 11:49:13.699 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, Music, "}
+02-05-2021 11:49:13.699 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book, Music,"  parameterizedStepValue:"Move To Book, Music,"}}
+02-05-2021 11:49:15.388 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, Music, Film"}
+02-05-2021 11:49:15.571 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book, Music, Film"  parameterizedStepValue:"Move To Book, Music, Film"}}
+02-05-2021 11:49:17.271 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, Music, Film, Ho"}
+02-05-2021 11:49:17.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book, Music, Film, Ho"  parameterizedStepValue:"Move To Book, Music, Film, Ho"}}
+02-05-2021 11:49:18.035 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, Music, Film, Hobby"}
+02-05-2021 11:49:18.035 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book, Music, Film, Hobby"  parameterizedStepValue:"Move To Book, Music, Film, Hobby"}}
+02-05-2021 11:49:24.127 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:49:24.521 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:49:24.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+02-05-2021 11:49:24.835 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+02-05-2021 11:49:27.479 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:49:27.597 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:57:15.089 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"clickRemoteControlVehicle"}
+02-05-2021 11:57:15.089 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"clickRemoteControlVehicle"  parameterizedStepValue:"clickRemoteControlVehicle"}}
+02-05-2021 11:57:16.806 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"click RemoteControlVehicle"}
+02-05-2021 11:57:16.806 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"click RemoteControlVehicle"  parameterizedStepValue:"click RemoteControlVehicle"}}
+02-05-2021 11:57:18.821 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"lick RemoteControlVehicle"}
+02-05-2021 11:57:18.821 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"lick RemoteControlVehicle"  parameterizedStepValue:"lick RemoteControlVehicle"}}
+02-05-2021 11:57:19.912 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click RemoteControlVehicle"}
+02-05-2021 11:57:19.920 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click RemoteControlVehicle"  parameterizedStepValue:"Click RemoteControlVehicle"}}
+02-05-2021 11:57:21.796 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Remote ControlVehicle"}
+02-05-2021 11:57:21.796 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Remote ControlVehicle"  parameterizedStepValue:"Click Remote ControlVehicle"}}
+02-05-2021 11:57:23.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Remote Control Vehicle"}
+02-05-2021 11:57:23.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Remote Control Vehicle"  parameterizedStepValue:"Click Remote Control Vehicle"}}
+02-05-2021 11:57:42.145 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:57:42.179 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:57:43.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+02-05-2021 11:57:43.212 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+02-05-2021 11:57:44.525 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 11:57:44.570 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:04:03.981 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click clickOtherCategories"}
+02-05-2021 12:04:03.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click clickOtherCategories"  parameterizedStepValue:"Click clickOtherCategories"}}
+02-05-2021 12:04:06.854 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click OtherCategories"}
+02-05-2021 12:04:06.854 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click OtherCategories"  parameterizedStepValue:"Click OtherCategories"}}
+02-05-2021 12:04:07.809 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Other Categories"}
+02-05-2021 12:04:07.809 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Other Categories"  parameterizedStepValue:"Click Other Categories"}}
+02-05-2021 12:04:15.438 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:04:15.515 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:04:16.548 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+02-05-2021 12:04:16.548 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+02-05-2021 12:04:18.726 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:04:18.847 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:08:20.561 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Dron"}
+02-05-2021 12:08:20.578 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Dron"  parameterizedStepValue:"Click Dron"}}
+02-05-2021 12:08:21.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Drone "}
+02-05-2021 12:08:21.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Drone"  parameterizedStepValue:"Click Drone"}}
+02-05-2021 12:08:22.820 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Drone Pa"}
+02-05-2021 12:08:22.820 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Drone Pa"  parameterizedStepValue:"Click Drone Pa"}}
+02-05-2021 12:08:23.590 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Drone Part"}
+02-05-2021 12:08:23.590 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Drone Part"  parameterizedStepValue:"Click Drone Part"}}
+02-05-2021 12:09:21.345 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:09:21.754 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:09:22.087 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+02-05-2021 12:09:22.087 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+02-05-2021 12:09:22.735 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:09:22.777 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:18:43.897 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move"}
+02-05-2021 12:18:43.898 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move"  parameterizedStepValue:"Move"}}
+02-05-2021 12:18:44.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Movet"}
+02-05-2021 12:18:44.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Movet"  parameterizedStepValue:"Movet"}}
+02-05-2021 12:18:45.369 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move "}
+02-05-2021 12:18:45.369 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move"  parameterizedStepValue:"Move"}}
+02-05-2021 12:18:45.906 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To"}
+02-05-2021 12:18:45.906 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To"  parameterizedStepValue:"Move To"}}
+02-05-2021 12:18:46.644 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Pr"}
+02-05-2021 12:18:46.644 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Pr"  parameterizedStepValue:"Move To Pr"}}
+02-05-2021 12:18:47.445 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Produc"}
+02-05-2021 12:18:47.478 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Produc"  parameterizedStepValue:"Move To Produc"}}
+02-05-2021 12:18:47.925 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Product"}
+02-05-2021 12:18:47.925 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Product"  parameterizedStepValue:"Move To Product"}}
+02-05-2021 12:18:51.824 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:18:51.869 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:18:52.899 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+02-05-2021 12:18:52.899 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+02-05-2021 12:18:53.838 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:18:53.887 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:33:47.620 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click clickTxtAddToCart"}
+02-05-2021 12:33:47.620 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click clickTxtAddToCart"  parameterizedStepValue:"Click clickTxtAddToCart"}}
+02-05-2021 12:33:50.362 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click TxtAddToCart"}
+02-05-2021 12:33:50.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click TxtAddToCart"  parameterizedStepValue:"Click TxtAddToCart"}}
+02-05-2021 12:33:54.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Txt AddToCart"}
+02-05-2021 12:33:54.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Txt AddToCart"  parameterizedStepValue:"Click Txt AddToCart"}}
+02-05-2021 12:33:55.635 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Txt Add To Cart"}
+02-05-2021 12:33:55.635 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Txt Add To Cart"  parameterizedStepValue:"Click Txt Add To Cart"}}
+02-05-2021 12:34:03.401 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:34:03.466 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:34:04.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+02-05-2021 12:34:04.296 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+02-05-2021 12:34:08.420 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 12:34:08.446 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 15:42:18.514 [Gauge] [INFO] Closing connection [127.0.0.1:58036] cause: read tcp 127.0.0.1:58035->127.0.0.1:58036: wsarecv: Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı.
+02-05-2021 15:42:18.654 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 1968 has terminated.
+02-05-2021 15:43:13.580 [Gauge] [INFO] Watching directory: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs
+02-05-2021 15:43:13.588 [Gauge] [DEBUG] Found 1 files
+02-05-2021 15:43:13.590 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-05-2021 15:43:13.592 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-05-2021 15:43:13.592 [Gauge] [DEBUG] Adding specs from C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 15:43:13.592 [Gauge] [INFO] Initializing steps cache with 1 steps
+02-05-2021 15:43:13.592 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49199
+02-05-2021 15:43:13.602 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 15:44:05.076 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password <key>"}
+02-05-2021 15:44:05.083 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <key>"  parameters:"key"}}
+02-05-2021 15:44:05.240 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click btnLogin"}
+02-05-2021 15:44:05.240 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click btnLogin"  parameterizedStepValue:"Click btnLogin"}}
+02-05-2021 15:44:05.446 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Search Product <key>"}
+02-05-2021 15:44:05.446 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Search Product {}"  parameterizedStepValue:"Set Search Product <key>"  parameters:"key"}}
+02-05-2021 15:44:05.561 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Product"}
+02-05-2021 15:44:05.561 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Product"  parameterizedStepValue:"Click Product"}}
+02-05-2021 15:44:05.767 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Add To Chart"}
+02-05-2021 15:44:05.767 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Add To Chart"  parameterizedStepValue:"Click Add To Chart"}}
+02-05-2021 15:44:05.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Txt Add To Cart"}
+02-05-2021 15:44:05.942 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Txt Add To Cart"  parameterizedStepValue:"Click Txt Add To Cart"}}
+02-05-2021 15:44:06.144 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Add To MerchanList"}
+02-05-2021 15:44:06.144 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Add To MerchanList"  parameterizedStepValue:"Click Add To MerchanList"}}
+02-05-2021 15:44:07.272 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter Hepsiburada Home Page;"}
+02-05-2021 15:44:07.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter Hepsiburada Home Page;"  parameterizedStepValue:"Enter Hepsiburada Home Page;"}}
+02-05-2021 15:44:07.412 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To My Account"}
+02-05-2021 15:44:07.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To My Account"  parameterizedStepValue:"Move To My Account"}}
+02-05-2021 15:44:07.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, Music, Film, Hobby"}
+02-05-2021 15:44:07.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book, Music, Film, Hobby"  parameterizedStepValue:"Move To Book, Music, Film, Hobby"}}
+02-05-2021 15:44:07.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Remote Control Vehicle"}
+02-05-2021 15:44:07.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Remote Control Vehicle"  parameterizedStepValue:"Click Remote Control Vehicle"}}
+02-05-2021 15:44:07.563 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Other Categories"}
+02-05-2021 15:44:07.563 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Other Categories"  parameterizedStepValue:"Click Other Categories"}}
+02-05-2021 15:44:07.606 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Drone Part"}
+02-05-2021 15:44:07.606 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Drone Part"  parameterizedStepValue:"Click Drone Part"}}
+02-05-2021 15:44:07.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Product"}
+02-05-2021 15:44:07.649 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Product"  parameterizedStepValue:"Move To Product"}}
+02-05-2021 15:44:07.688 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Login"}
+02-05-2021 15:44:07.688 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Login"  parameterizedStepValue:"Click Login"}}
+02-05-2021 15:44:07.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set User Name <key>"}
+02-05-2021 15:44:07.726 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set User Name {}"  parameterizedStepValue:"Set User Name <key>"  parameters:"key"}}
+02-05-2021 15:44:08.083 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Search Product \"Bilgisayar\""}
+02-05-2021 15:44:08.083 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Search Product {}"  parameterizedStepValue:"Set Search Product <Bilgisayar>"  parameters:"Bilgisayar"}}
+02-05-2021 15:44:08.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set User Name \"m.akif.kus95@gmail.com\""}
+02-05-2021 15:44:08.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set User Name {}"  parameterizedStepValue:"Set User Name <m.akif.kus95@gmail.com>"  parameters:"m.akif.kus95@gmail.com"}}
+02-05-2021 15:44:08.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"Makifkus95\""}
+02-05-2021 15:44:08.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <Makifkus95>"  parameters:"Makifkus95"}}
+02-05-2021 16:38:24.187 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-05-2021 16:38:24.189 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-05-2021 16:38:24.189 [Gauge] [DEBUG] Adding specs from C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 16:38:24.189 [Gauge] [INFO] Initializing steps cache with 1 steps
+02-05-2021 16:38:24.190 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49585
+02-05-2021 16:38:24.200 [Gauge] [INFO] Watching directory: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs
+02-05-2021 16:38:24.200 [Gauge] [DEBUG] Found 1 files
+02-05-2021 16:39:18.637 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter Hepsiburada Home Page;"}
+02-05-2021 16:39:18.645 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter Hepsiburada Home Page;"  parameterizedStepValue:"Enter Hepsiburada Home Page;"}}
+02-05-2021 16:39:46.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To My Account"}
+02-05-2021 16:39:46.684 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To My Account"  parameterizedStepValue:"Move To My Account"}}
+02-05-2021 16:39:46.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Login"}
+02-05-2021 16:39:46.684 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Login"  parameterizedStepValue:"Click Login"}}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Book, Music, Film, Hobby"}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Book, Music, Film, Hobby"  parameterizedStepValue:"Move To Book, Music, Film, Hobby"}}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Remote Control Vehicle"}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Remote Control Vehicle"  parameterizedStepValue:"Click Remote Control Vehicle"}}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Other Categories"}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Other Categories"  parameterizedStepValue:"Click Other Categories"}}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Drone Part"}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Drone Part"  parameterizedStepValue:"Click Drone Part"}}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Move To Product"}
+02-05-2021 16:39:46.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Move To Product"  parameterizedStepValue:"Move To Product"}}
+02-05-2021 16:39:46.793 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set User Name \"m.akif.kus95@gmail.com\""}
+02-05-2021 16:39:46.804 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set User Name {}"  parameterizedStepValue:"Set User Name <m.akif.kus95@gmail.com>"  parameters:"m.akif.kus95@gmail.com"}}
+02-05-2021 16:39:47.169 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set User Name <key>"}
+02-05-2021 16:39:47.169 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set User Name {}"  parameterizedStepValue:"Set User Name <key>"  parameters:"key"}}
+02-05-2021 16:39:47.169 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"Makifkus95\""}
+02-05-2021 16:39:47.169 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <Makifkus95>"  parameters:"Makifkus95"}}
+02-05-2021 16:39:47.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password <key>"}
+02-05-2021 16:39:47.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <key>"  parameters:"key"}}
+02-05-2021 16:39:47.228 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click btnLogin"}
+02-05-2021 16:39:47.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click btnLogin"  parameterizedStepValue:"Click btnLogin"}}
+02-05-2021 16:39:47.228 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Search Product \"Bilgisayar\""}
+02-05-2021 16:39:47.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Search Product {}"  parameterizedStepValue:"Set Search Product <Bilgisayar>"  parameters:"Bilgisayar"}}
+02-05-2021 16:39:47.634 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Search Product <key>"}
+02-05-2021 16:39:47.634 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Search Product {}"  parameterizedStepValue:"Set Search Product <key>"  parameters:"key"}}
+02-05-2021 16:39:47.980 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Product"}
+02-05-2021 16:39:47.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Product"  parameterizedStepValue:"Click Product"}}
+02-05-2021 16:39:47.980 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Add To Chart"}
+02-05-2021 16:39:47.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Add To Chart"  parameterizedStepValue:"Click Add To Chart"}}
+02-05-2021 16:39:47.980 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Add To MerchanList"}
+02-05-2021 16:39:47.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Add To MerchanList"  parameterizedStepValue:"Click Add To MerchanList"}}
+02-05-2021 16:39:47.996 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Txt Add To Cart"}
+02-05-2021 16:39:48.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Txt Add To Cart"  parameterizedStepValue:"Click Txt Add To Cart"}}
+02-05-2021 16:42:58.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"XX\""}
+02-05-2021 16:42:58.175 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <XX>"  parameters:"XX"}}
+02-05-2021 16:42:59.856 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"XXX\""}
+02-05-2021 16:42:59.856 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <XXX>"  parameters:"XXX"}}
+02-05-2021 16:43:00.499 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"\""}
+02-05-2021 16:43:00.499 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <>"  parameters:""}}
+02-05-2021 16:43:01.261 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"xx\""}
+02-05-2021 16:43:01.261 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <xx>"  parameters:"xx"}}
+02-05-2021 16:43:01.724 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"xxx\""}
+02-05-2021 16:43:01.724 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <xxx>"  parameters:"xxx"}}
+02-05-2021 16:43:01.851 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set Password \"xxx\""}
+02-05-2021 16:43:01.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set Password {}"  parameterizedStepValue:"Set Password <xxx>"  parameters:"xxx"}}
+02-05-2021 16:43:02.476 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec
+02-05-2021 16:43:02.836 [Gauge] [INFO] Spec file added / modified: C:\Users\Mak\IdeaProjects\HepsiburadaTestCase\specs\example.spec

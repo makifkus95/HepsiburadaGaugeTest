@@ -1,0 +1,27 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 5333milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 5333"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 49261"}
+{"logLevel":"info","message":"Listening on port:49261"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.lvMyAccount' and 'StepImplementation.lvMyAccount'"}
+{"logLevel":"debug","message":"Found Move To My Account in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickLogin' and 'StepImplementation.clickLogin'"}
+{"logLevel":"debug","message":"Found Click Login in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.gotoAkbank' and 'StepImplementation.gotoAkbank'"}
+{"logLevel":"debug","message":"Found Enter Hepsiburada Home Page; in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tEnter Hepsiburada Home Page; : public void gotoAkbank()"}
+{"logLevel":"debug","message":"\tMove To My Account : public void lvMyAccount()"}
+{"logLevel":"debug","message":"\tClick Login : public void clickLogin()"}
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 10811
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 01, 2021 2:07:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Enter Hepsiburada Home Page;' using 'class StepImplementation.gotoAkbank"}
+{"logLevel":"debug","message":"Executing 'Move To My Account' using 'class StepImplementation.lvMyAccount"}

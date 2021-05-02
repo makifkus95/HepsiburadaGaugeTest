@@ -1,0 +1,67 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 4638milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 4638"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 61570"}
+{"logLevel":"info","message":"Listening on port:61570"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.moveToProduct' and 'StepImplementation.moveToProduct'"}
+{"logLevel":"debug","message":"Found Move To Product in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.lvMyAccount' and 'StepImplementation.lvMyAccount'"}
+{"logLevel":"debug","message":"Found Move To My Account in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickBtnLogin' and 'StepImplementation.clickBtnLogin'"}
+{"logLevel":"debug","message":"Found Click btnLogin in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickAddToChart' and 'StepImplementation.clickAddToChart'"}
+{"logLevel":"debug","message":"Found Click Add To Chart in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.gotoAkbank' and 'StepImplementation.gotoAkbank'"}
+{"logLevel":"debug","message":"Found Enter Hepsiburada Home Page; in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.setTxtPassword' and 'StepImplementation.setTxtPassword'"}
+{"logLevel":"debug","message":"Found Set Password {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickDronePart' and 'StepImplementation.clickDronePart'"}
+{"logLevel":"debug","message":"Found Click Drone Part in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.lvBookMusicFilmHobby' and 'StepImplementation.lvBookMusicFilmHobby'"}
+{"logLevel":"debug","message":"Found Move To Book, Music, Film, Hobby in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickLogin' and 'StepImplementation.clickLogin'"}
+{"logLevel":"debug","message":"Found Click Login in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickRemoteControlVehicle' and 'StepImplementation.clickRemoteControlVehicle'"}
+{"logLevel":"debug","message":"Found Click Remote Control Vehicle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.setTxtUserName' and 'StepImplementation.setTxtUserName'"}
+{"logLevel":"debug","message":"Found Set User Name {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickTxtAddToCart' and 'StepImplementation.clickTxtAddToCart'"}
+{"logLevel":"debug","message":"Found Click Txt Add To Cart in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickOtherCategories' and 'StepImplementation.clickOtherCategories'"}
+{"logLevel":"debug","message":"Found Click Other Categories in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickProduct' and 'StepImplementation.clickProduct'"}
+{"logLevel":"debug","message":"Found Click Product in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.setTxtProductInput' and 'StepImplementation.setTxtProductInput'"}
+{"logLevel":"debug","message":"Found Set Search Product {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickMerchanList' and 'StepImplementation.clickMerchanList'"}
+{"logLevel":"debug","message":"Found Click Add To MerchanList in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tClick Product : public void clickProduct()"}
+{"logLevel":"debug","message":"\tClick Other Categories : public void clickOtherCategories()"}
+{"logLevel":"debug","message":"\tMove To My Account : public void lvMyAccount()"}
+{"logLevel":"debug","message":"\tClick Login : public void clickLogin()"}
+{"logLevel":"debug","message":"\tClick Txt Add To Cart : public void clickTxtAddToCart()"}
+{"logLevel":"debug","message":"\tSet Password {} : public void setTxtPassword(String key)"}
+{"logLevel":"debug","message":"\tSet User Name {} : public void setTxtUserName(String key)"}
+{"logLevel":"debug","message":"\tClick Add To Chart : public void clickAddToChart()"}
+{"logLevel":"debug","message":"\tSet Search Product {} : public void setTxtProductInput(String key)"}
+{"logLevel":"debug","message":"\tEnter Hepsiburada Home Page; : public void gotoAkbank()"}
+{"logLevel":"debug","message":"\tClick Add To MerchanList : public void clickMerchanList()"}
+{"logLevel":"debug","message":"\tMove To Product : public void moveToProduct()"}
+{"logLevel":"debug","message":"\tClick Drone Part : public void clickDronePart()"}
+{"logLevel":"debug","message":"\tMove To Book, Music, Film, Hobby : public void lvBookMusicFilmHobby()"}
+{"logLevel":"debug","message":"\tClick btnLogin : public void clickBtnLogin()"}
+{"logLevel":"debug","message":"\tClick Remote Control Vehicle : public void clickRemoteControlVehicle()"}
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 1381
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 02, 2021 12:35:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Enter Hepsiburada Home Page;' using 'class StepImplementation.gotoAkbank"}
+{"logLevel":"debug","message":"Executing 'Move To Book, Music, Film, Hobby' using 'class StepImplementation.lvBookMusicFilmHobby"}
+{"logLevel":"debug","message":"Executing 'Click Remote Control Vehicle' using 'class StepImplementation.clickRemoteControlVehicle"}

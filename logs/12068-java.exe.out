@@ -1,0 +1,3 @@
+Listening for transport dt_socket at address: 57126
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
